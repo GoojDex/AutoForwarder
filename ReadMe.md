@@ -20,8 +20,8 @@ Add the above values to the environment vars and deploy the bot.
 <details>
 <summary>Local Deploys</summary>
 <br>
-- Clone the repo:   <code>git clone https://github.com/xditya/ChannelAutoForwarder</code></br>
-- Make a <code>.env</code> file in the root of the repo, like <a href="https://github.com/xditya/ChannelAutoForwarder/blob/main/.env.sample">.env.sample</a> and fill in the values.</br>
+- Clone the repo:   <code>git clone https://github.com/infotrackcom/AutoForwarder</code></br>
+- Make a <code>.env</code> file in the root of the repo, like <a href="https://github.com/infotrackcom/AutoForwarder/blob/main/.env.sample">.env.sample</a> and fill in the values.</br>
 - Use <code>python3 bot.py</code> to start the bot.</br>  
 </details>
 
@@ -29,8 +29,25 @@ Add the above values to the environment vars and deploy the bot.
 Add the bot to both channels with admin permission, and thats it!
 All new messages will be auto-posted!!
 
-Visit [@TeamCyphers](https://t.me/TeamCyphers) for help.
-## Credits
-> [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/LonamiWebs/Telethon).   
-> [xditya](https://github.com/xditya), me.   
-> [@ettan_fan](https://t.me/ettan_fan), for the whole idea.   
+## How to create your own bot
+
+If you want to create your own bot, fork this repo and use it as your source repository on Heroku. To do that, connect GitHub to Heroku and select the forked repo.
+
+
+#### Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/infotrackcom/AutoForwarder)
+
+
+## Useful links
+
+### Heroku
+
+* [Heroku: Getting started python](https://devcenter.heroku.com/articles/getting-started-with-python)
+* [Configuration variables heroku](https://devcenter.heroku.com/articles/config-vars#managing-config-vars)
+* [Heroku: Deploying with git](https://devcenter.heroku.com/articles/git)
+
+### Telegram bots
+
+* [Telegram Bot introduction](https://core.telegram.org/bots)
+* [Telegram Bot API](https://core.telegram.org/bots/api)
