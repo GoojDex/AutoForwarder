@@ -13,8 +13,7 @@ This bot can send all new messages from one channel, directly to another channel
    
 * Chose a platform to deploy on:
 <details>
-<summary>Heroku/Kintohub/Zeet</summary>
-<br>
+
 Add the above values to the environment vars and deploy the bot.
 </details>
 <details>
