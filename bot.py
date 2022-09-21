@@ -1,5 +1,5 @@
-#    This file is part of the ChannelAutoForwarder distribution (https://github.com/xditya/ChannelAutoForwarder).
-#    Copyright (c) 2021 Adiya
+#    This file is part of the ChannelAutoForwarder distribution (https://github.com/infotrackcom/AutoForwarder).
+#    Copyright (c) 2021 Infotrackcom
 #    
 #    This program is free software: you can redistribute it and/or modify  
 #    it under the terms of the GNU General Public License as published by  
@@ -10,7 +10,7 @@
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
 #    General Public License for more details.
 # 
-#    License can be found in < https://github.com/xditya/ChannelAutoForwarder/blob/main/License> .
+#    License can be found in < https://github.com/infotrackcom/AutoForwarder/blob/main/License> .
 
 import logging
 import asyncio
